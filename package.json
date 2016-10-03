@@ -1,0 +1,23 @@
+{
+  "name": "nodetaskapp",
+  "version": "1.0.0",
+  "description": "Node.js and MySQL app",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"echo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EGregg/nodeSQLapp.git"
+  },
+  "author": "EG",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EGregg/nodeSQLapp/issues"
+  },
+  "homepage": "https://github.com/EGregg/nodeSQLapp#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "express": "^4.14.0"
+  }
+}
