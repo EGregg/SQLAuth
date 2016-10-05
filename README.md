@@ -1,6 +1,4 @@
-"# nodeSQLApp" 
-
-This app should not be used for production as the passwords are not salted
+"# SQLAuth" 
 
 insure node.js is installed
 
